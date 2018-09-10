@@ -28,6 +28,8 @@
 <img src="img/b_illust_54_0M.png" width=880>
 </div>
      <br/>
+     
+<a href="https://"><h3>安徽猪瘟泛滥 民众普遍不知情 猪肉仍流通 </a>  </h3> <br/> 
   <div align=center>
 <img src="img/p1.PNG" width=580>
 </div>   
@@ -64,7 +66,9 @@
    <div align=center>
 <img src="img/b_ornament_137_0M.png" width=880>
 </div>  
- <br/>    
+ <br/>   
+ 
+ <a href="https://"><h3>河南疫苗受害家庭的苦难历程（一） </a>  </h3>  <br/>
    <div align=center>
 <img src="img/p2.jpg" width=580>
 </div>
