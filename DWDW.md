@@ -62,7 +62,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
       
    <div align=center>
-<img src="img/p2.jpg" width=880>
+<img src="img/p2.jpg" width=580>
 </div>
      <br/>    
       
