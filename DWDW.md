@@ -1,6 +1,6 @@
 
 <div align=center>
-<img src="img/23760ss00.jpg" width=880>
+<img src="img/23760ss00.jpg" width=980>
 </div>
 
 <div align=center>
@@ -64,7 +64,7 @@
    <div align=center>
 <img src="img/b_ornament_137_0M.png" width=880>
 </div>  
-     
+ <br/>    
    <div align=center>
 <img src="img/p2.jpg" width=580>
 </div>
@@ -129,7 +129,10 @@
  
 <a href=#list><h6 align="right">回目錄</h6></a> 
  
- 
+  <div align=center>
+<img src="img/b_ornament_137_0M.png" width=880>
+</div>  
+ <br/>  
  
  
  
