@@ -1,6 +1,6 @@
 
 <div align=center>
-<img src="img/23760ss00.jpg" width=980>
+<img src="img/23760ss00.jpg" width=880>
 </div>
 
 <div align=center>
@@ -29,7 +29,7 @@
 </div>
      <br/>
 <div align=center>     
-<a href="https://"><h3>安徽猪瘟泛滥 民众普遍不知情 猪肉仍流通 </a>  </h3></div>  
+<a href="https://"><h2>安徽猪瘟泛滥 民众普遍不知情 猪肉仍流通 </a>  </h2></div>  
   
   <div align=center>
 <img src="img/p1.PNG" width=580>
@@ -70,8 +70,9 @@
  <br/>   
  
  <div align=center>  
- <a href="https://"><h3>河南疫苗受害家庭的苦难历程（一） </a>  </h3> </div>
-   <div align=center>
+ <a href="https://"><h2>河南疫苗受害家庭的苦难历程（一） </a>  </h2> </div>
+ 
+ <div align=center>
 <img src="img/p2.jpg" width=580>
 </div>
      <br/>    
