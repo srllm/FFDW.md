@@ -8,13 +8,13 @@
 
 <table>
   <tr>
-    <td width=680><h4><a href="#1">1.安徽猪瘟泛滥 民众普遍不知情 猪肉仍流通</a> </h4></td>
-    <td width=200 ><h4><a href="#1">大纪元新闻</a> </h4></td>
+    <td width=680><a href="#1">1.安徽猪瘟泛滥 民众普遍不知情 猪肉仍流通</a> </td>
+    <td width=200 ><a href="#1">大纪元新闻</a> </td>
  </tr>
   
   <tr>
-    <td width=680><h4><a href="#1">2.河南疫苗受害家庭的苦难历程（一）</a> </h4></td>
-    <td width=200 ><h4><a href="#1">大纪元新闻</a> </h4></td>
+    <td width=680><a href="#1">2.河南疫苗受害家庭的苦难历程（一）</a> </td>
+    <td width=200 ><a href="#1">大纪元新闻</a> </td>
  </tr>
    
    
@@ -60,7 +60,11 @@
       
  
 <a href=#list><h6 align="right">回目錄</h6></a>
-      
+     
+   <div align=center>
+<img src="img/b_ornament_137_0M.png" width=880>
+</div>  
+     
    <div align=center>
 <img src="img/p2.jpg" width=580>
 </div>
