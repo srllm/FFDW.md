@@ -4,7 +4,7 @@
 </div>
 
 <div align=center>
-<h3><a href="https://">中国禁闻 时时更新 请随时关注 並记下短连结 https://git.io/ </a></h3></div>
+<a name=list><h3><a href="https://">中国禁闻 时时更新 请随时关注 並记下短连结 https://git.io/ </a></h3></div>
 
 <table>
   <tr>
@@ -17,7 +17,7 @@
    
    
   <div align=center>
-<img src="img/p1.png" width=580>
+<img src="img/p1.PNG" width=580>
 </div>   
 
    【大纪元2018年09月08日讯】（大纪元记者萧律生采访报导）近期，非洲猪瘟在安徽省三地肆虐，民众对此却多不知情。瘟疫事发当地有民众表示，一个半月过后，猪肉会再次上市，目前仍有剩余猪肉在市场上销售。   
@@ -46,7 +46,8 @@
 
 责任编辑：林妍  
       
- <a href=#1>回目录</a>   
+ 
+<a href=#list><h6 align="right">回目錄</h6></a>
       
       
       
