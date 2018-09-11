@@ -8,48 +8,48 @@
 
 <table>
   <tr>
-    <td width=680><a href="#1">1.安徽猪瘟泛滥 民众普遍不知情 猪肉仍流通</a> </td>
-    <td width=200 ><a href="#1">大纪元新闻</a> </td>
+    <td width=680><a href=#1>1.安徽猪瘟泛滥 民众普遍不知情 猪肉仍流通</a> </td>
+    <td width=200 ><a href=#1>大纪元新闻</a> </td>
  </tr>
   
   <tr>
-    <td width=680><a href="#1">2.河南疫苗受害家庭的苦难历程（一）</a> </td>
-    <td width=200 ><a href="#1">大纪元新闻</a> </td>
+    <td width=680><a href=#2>2.河南疫苗受害家庭的苦难历程（一）</a> </td>
+    <td width=200 ><a href=#2>大纪元新闻</a> </td>
  </tr>
    
    <tr>
-    <td width=680><a href="#1">3.河南疫苗受害家庭的苦难历程（二）</a> </td>
-    <td width=200 ><a href="#1">大纪元新闻</a> </td>
+    <td width=680><a href=#3>3.河南疫苗受害家庭的苦难历程（二）</a> </td>
+    <td width=200 ><a href=#3>大纪元新闻</a> </td>
  </tr>
  
  <tr>
-    <td width=680><a href="#1">4.大陆8月天灾人祸不断 社会危机重重</a> </td>
-    <td width=200 ><a href="#1">大纪元新闻</a> </td>
+    <td width=680><a href=#4>4.大陆8月天灾人祸不断 社会危机重重</a> </td>
+    <td width=200 ><a href=#4>大纪元新闻</a> </td>
  </tr>
    
    <tr>
-    <td width=680><a href="#1">5.马三家酷刑受害者：我要站出来说话(1)</a> </td>
-    <td width=200 ><a href="#1">大纪元新闻</a> </td>
+    <td width=680><a href=#5>5.马三家酷刑受害者：我要站出来说话(1)</a> </td>
+    <td width=200 ><a href=#5>大纪元新闻</a> </td>
  </tr>
    
    <tr>
-    <td width=680><a href="#1">6.马三家酷刑受害者：我要站出来说话(2)</a> </td>
-    <td width=200 ><a href="#1">大纪元新闻</a> </td>
+    <td width=680><a href=#6>6.马三家酷刑受害者：我要站出来说话(2)</a> </td>
+    <td width=200 ><a href=#6>大纪元新闻</a> </td>
  </tr>
  
   <tr>
-    <td width=680><a href="#1">7.马三家酷刑受害者：我要站出来说话(3)</a> </td>
-    <td width=200 ><a href="#1">大纪元新闻</a> </td>
+    <td width=680><a href=#7>7.马三家酷刑受害者：我要站出来说话(3)</a> </td>
+    <td width=200 ><a href=#7>大纪元新闻</a> </td>
  </tr>
  
  <tr>
-    <td width=680><a href="#1">8.马三家酷刑受害者：我要站出来说话(4)</a> </td>
-    <td width=200 ><a href="#1">大纪元新闻</a> </td>
+    <td width=680><a href=#8>8.马三家酷刑受害者：我要站出来说话(4)</a> </td>
+    <td width=200 ><a href=#8>大纪元新闻</a> </td>
  </tr>
  
    <tr>
-    <td width=680><a href="#1">9.马三家幸存者：认识的10法轮功学员被迫害死</a> </td>
-    <td width=200 ><a href="#1">大纪元新闻</a> </td>
+    <td width=680><a href=#9>9.马三家幸存者：认识的10位法轮功学员被迫害死</a> </td>
+    <td width=200 ><a href=#9>大纪元新闻</a> </td>
  </tr>
    
    
@@ -70,7 +70,7 @@
  <br/>  
  
  <div align=center>     
-<a href="https://"><h2>马三家幸存者：认识的10法轮功学员被迫害死 </a>  </h2></div>  
+<a href="https://"><h2>马三家幸存者：认识的10位法轮功学员被迫害死 </a>  </h2></div>  
 
 <div align=center>
 <img src="img/b1.jpg" width=580>
