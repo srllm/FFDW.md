@@ -736,12 +736,6 @@
 <img src="img/b_ornament_137_0M.png" width=880>
 </div>  
  <br/>    
-   
-    
-   <div align=center>
-<img src="img/b_illust_54_0M.png" width=880>
-</div>
-     <br/>
      
 <div align=center>  
  <a name=2><h2>河南疫苗受害家庭的苦难历程（一） </a>  </h2> </div>
