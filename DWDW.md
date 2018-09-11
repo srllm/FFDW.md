@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width=680><a href=#1>1.安徽猪瘟泛滥 民众普遍不知情 猪肉仍流通</a> </td>
-    <td width=200 >大纪元新闻 </td>
+    <td width=200 ><a href=#1>大纪元新闻</a> </td>
  </tr>
   
   <tr>
@@ -818,7 +818,7 @@
      
       
 <div align=center>     
-<a href="https://"><h2>安徽猪瘟泛滥 民众普遍不知情 猪肉仍流通 </a>  </h2></div>  
+<a name=1><h2>安徽猪瘟泛滥 民众普遍不知情 猪肉仍流通 </a>  </h2></div>  
   
   <div align=center>
 <img src="img/p1.PNG" width=580>
