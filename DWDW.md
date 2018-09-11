@@ -70,7 +70,7 @@
  <br/>  
  
  <div align=center>     
-<a href="https://"><h2>马三家幸存者：认识的10位法轮功学员被迫害死 </a>  </h2></div>  
+<a name=9><h2>马三家幸存者：认识的10位法轮功学员被迫害死 </a>  </h2></div>  
 
 <div align=center>
 <img src="img/b1.jpg" width=580>
@@ -131,7 +131,7 @@
  <br/>    
     
  <div align=center>     
-<a href="https://"><h2>马三家酷刑受害者：我要站出来说话(4) </a>  </h2></div>  
+<a name=8><h2>马三家酷刑受害者：我要站出来说话(4) </a>  </h2></div>  
 <div align=center>  刘华自述；郑容记录整理 </div>
 <br/>
 <div align=center>
@@ -216,7 +216,7 @@
  <br/>     
    
  <div align=center>     
-<a href="https://"><h2>马三家酷刑受害者：我要站出来说话(3) </a>  </h2></div>  
+<a name=7><h2>马三家酷刑受害者：我要站出来说话(3) </a>  </h2></div>  
 <div align=center>  刘华自述；郑容记录整理 </div>
 <br/>
 <div align=center>
@@ -357,7 +357,7 @@
  <br/>   
    
  <div align=center>     
-<a href="https://"><h2>马三家酷刑受害者：我要站出来说话(2) </a>  </h2></div>  
+<a name=6><h2>马三家酷刑受害者：我要站出来说话(2) </a>  </h2></div>  
 <div align=center>  刘华自述；郑容记录整理 </div>
 <br/>
 <div align=center>
@@ -453,7 +453,7 @@
    
     
  <div align=center>  
- <a href="https://"><h2>马三家酷刑受害者：我要站出来说话(1) </a>  </h2> </div>
+<a name=5><h2>马三家酷刑受害者：我要站出来说话(1) </a>  </h2> </div>
 <div align=center>  刘华自述；郑容记录整理 </div>
 <br/>
 <div align=center>
@@ -551,7 +551,7 @@
  <br/> 
     
   <div align=center>  
- <a href="https://"><h2>大陆8月天灾人祸不断 社会危机重重 </a>  </h2> </div>
+ <a name=4><h2>大陆8月天灾人祸不断 社会危机重重 </a>  </h2> </div>
 
  <div align=center>
 <img src="img/a1.PNG" width=580>
@@ -634,7 +634,7 @@
    
    
   <div align=center>  
- <a href="https://"><h2>河南疫苗受害家庭的苦难历程（二） </a>  </h2> </div>
+ <a name=3><h2>河南疫苗受害家庭的苦难历程（二） </a>  </h2> </div>
  
   <div align=center>
 <img src="img/p3.jpg" width=580>
@@ -744,7 +744,7 @@
      <br/>
      
 <div align=center>  
- <a href="https://"><h2>河南疫苗受害家庭的苦难历程（一） </a>  </h2> </div>
+ <a name=2><h2>河南疫苗受害家庭的苦难历程（一） </a>  </h2> </div>
  
  <div align=center>
 <img src="img/p2.jpg" width=580>
