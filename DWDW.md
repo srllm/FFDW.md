@@ -175,7 +175,7 @@
 没有想像中的刑具，任何一件东西都可以成为刑具。
  
   <div align=center>
-<img src="img/b6.jpg" width=580>
+<img src="img/b6.png" width=580>
 </div>  
  <div align=center>马三家劳教所酷刑：“抻床”。（孙毅手绘亲身经历） </div> 
  <br/> 
@@ -193,7 +193,7 @@
 普通的医用护理床，被劳教人员叫做“死人床”。
  
   <div align=center>
-<img src="img/b8.jpg" width=580>
+<img src="img/b8.png" width=580>
 </div>  
  <div align=center>马三家劳教所酷刑组合：“死人床”与“上开口器”。（孙毅手绘亲身经历） </div> 
  <br/>
