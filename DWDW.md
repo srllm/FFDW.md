@@ -135,7 +135,7 @@
 <a name=20><h2>致青春——一位中国80后女生的故事（下） </a>  </h2></div>
 
  <div align=center>
-<img src="img/kk3.PNG" width=880>
+<img src="img/kk3.PNG" width=580>
 </div>  
  <br/>    
 【大纪元2018年08月18日讯】编者按：一段花样年华，被迫在黑牢和流离失所中度过。美国一位华裔专业人士回忆自己在中国大陆就读大学期间被中共非法关押的人生经历，以及来到美国后所遇到的挑战。以下是本文作者宇微的自述，分为上、中、下篇连载。</p>
@@ -246,7 +246,7 @@
 <div align=center> 文／宇微</div>
 
  <div align=center>
-<img src="img/kk2.PNG" width=880>
+<img src="img/kk2.PNG" width=580>
 </div>  
  <br/>      
 
@@ -371,7 +371,7 @@ GRE和托福考完后，开始申请大学，最后拿到一所新加坡大学�
 <div align=center> 文／宇微</div>
 
  <div align=center>
-<img src="img/kk1.PNG" width=880>
+<img src="img/kk1.PNG" width=580>
 </div>  
  <br/>   
   【大纪元2018年08月11日讯】编者按：一段花样年华，被迫在黑牢和流离失所中度过。美国一位华裔专业人士回忆自己在中国大陆就读大学期间被中共非法关押的人生经历，以及来到美国后所遇到的挑战。以下是本文作者宇微的自述，分为上、中、下篇连载。
