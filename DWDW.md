@@ -121,10 +121,10 @@
  <br/>  
   
 <div align=center>     
-<a name=16><h2>曹长青：法轮功学员被摘器官是真的吗？ </a>  </h2></div>    
+<a name=17><h2>曹长青：法轮功学员被摘器官是真的吗？ </a>  </h2></div>    
    
    <div align=center>
-<img src="img/g-3.jpg" width=580>
+<img src="img/g-3.PNG" width=580>
 </div>  
 
  <br/>    
@@ -153,7 +153,7 @@
 
 “每次我追述这件事，都像是一次忏悔。”他的发言这样开头。
 <div align=center>
-<img src="img/g-0.jpg" width=580>
+<img src="img/g-0.PNG" width=580>
 </div>  
 
 那是1995年，两位首席外科医生将他叫进办公室，让他立即组团队，准备做一台“最大的手术”。第二天早上，托帝带着护士和麻醉师，从医院被送到西山刑场，受命等待枪响。
