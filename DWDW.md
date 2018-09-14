@@ -148,14 +148,10 @@
 <div align=center>
 <img src="img/b_illust_54_0M.png" width=880>
 </div>   
+
  <a href=#list><h6 align="right">回目錄</h6></a>
- <div align=center>
+ 
 <img src="img/b_ornament_137_0M.png" width=880>
-</div>  
- 
- 
- 
- 
  <div align=center>     
 <a name=25><h2>“上级命令”是一把杀人不见血的刀 </a>  </h2></div>  
  【明慧网二零一八年九月七日】自一九九九年七.二零，江氏流氓集团迫害法轮功以来，中国大陆的各级人员在参与与实施迫害法轮功学员的违法犯罪行为时，都打着一个冠冕堂皇的旗号——执行“上级命令”。</p>
