@@ -260,7 +260,7 @@
 胡忠杰曾经被殴打、剃光头、体罚洗脑、强制劳动等。他在诉状中说：“一关到监号，同监的犯人全部打你一遍。我当时被打得蹲不下站不起，臀部肿得穿不上裤子。”
 
 <div align=center>
-<img src="img/dg3.jpg" width=580>
+<img src="img/dg3.png" width=580>
 </div>  
  <div align=center>中共酷刑示意图：殴打（明慧网）</div>  
 <br/>  
