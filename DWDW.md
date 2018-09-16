@@ -177,8 +177,20 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 
+
+
+
+
+
+
+<a href=#list><h6 align="right">回目錄</h6></a>
+ <img src="img/b_ornament_137_0M.png" width=880>
+
+<div align=center>
+<a name=30><h2>这些医生为何起诉江泽民？（2） </a>  </h2></div> 
+
  <div align=center>
-<img src="img/zx4.jpg" width=580>
+<img src="img/zx4.png" width=580>
 </div>  
  <div align=center>2015年7月18、19日，香港法轮功学员及支持团体举行反对迫害、声援起诉江泽民游行。（新唐人）</div>  
 <br/>
