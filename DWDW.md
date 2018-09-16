@@ -311,7 +311,7 @@
 
 20多天后，她被转到别的监号，她因在放风场上炼功被警察上“反背高位”（双手反铐在背后，被吊挂）一天一夜，致心慌而休克。</p>
 <div align=center>
-<img src="img/zx8.jpg" width=480>
+<img src="img/zx8.jpg" width=280>
 </div>  
  <div align=center>中共酷刑示意图：吊背铐。（明慧网）</div>  
 <br/>
