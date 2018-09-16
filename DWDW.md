@@ -1,6 +1,6 @@
 
 <div align=center>
-<img src="img/23760ss00-0912.jpg" width=880>
+<img src="img/cd0916.jpg" width=880>
 </div>
 <br/>
 
