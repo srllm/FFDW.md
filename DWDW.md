@@ -18,8 +18,8 @@
 
 <table>
    <tr>
-    <td width=680><a href=#1>◆ 川人：中秋节话感恩，挡不住的良知回归潮</a> </td>
-    <td width=200 ><a href=#1>大纪元新闻</a> </td>
+    <td width=680><a href=#◆>◆ 川人：中秋节话感恩，挡不住的良知回归潮</a> </td>
+    <td width=200 ><a href=#◆>大纪元新闻</a> </td>
  </tr>
   
   <tr>
