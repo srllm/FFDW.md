@@ -1,6 +1,7 @@
 
 <div align=center>
 <img src="img/cd1007.jpg" width=880>
+  <h3 align=center>翻墙必看 视频 http://36.227.98.164 </h3>
 </div>
 <br/>
 
