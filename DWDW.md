@@ -18,8 +18,8 @@
 
 <table>
    <tr>
-    <td width=680><a href=#◆◆>◆.中共哈尔滨政法委“610”官员厄运缠身 </a> </td>
-    <td width=200 ><a href=◆◆>大纪元新闻</a> </td>
+    <td width=680><a href=#◆◆>◆中共哈尔滨政法委“610”官员厄运缠身 </a> </td>
+    <td width=200 ><a href=#◆◆>大纪元新闻</a> </td>
  </tr> 
   
    <tr>
@@ -195,7 +195,7 @@
  <img src="img/b_ornament_137_0M.png" width=880>
 
 <div align=center>
-<a name=◆><h2>中共哈尔滨政法委“610”官员厄运缠身 </a>  </h2></div> 
+<a name=◆◆><h2>中共哈尔滨政法委“610”官员厄运缠身 </a>  </h2></div> 
  <div align=center>
 <img src="img/2-172632152.jpg" width=580>
 </div>  
