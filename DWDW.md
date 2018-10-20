@@ -18,9 +18,13 @@
 <a name=list><h3><a href="https://">中国禁闻 时时更新 请随时关注 並记下短连结 【 https://git.io/DWDW 】</a></h3></div>
 <table>
    <tr>
-    <td width=880>
+    <td width=440>
 <div align=center><a href="https://git.io/tgc">• 点阅《共产主义的终极目的》•</a></div>
-</td></tr> 
+</td>
+  <td width=440>
+<div align=center><a href="https://git.io/sos">• 点阅《九评共产党》•</a></div>
+</td>
+  </tr> 
 </table>
 
 <table>
