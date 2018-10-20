@@ -214,7 +214,7 @@
  <img src="img/b_ornament_137_0M.png" width=880>
 
 
-
+<div align=center>
 <a name=◆◆◆><h2> 中共悄悄送給越南的島 比釣魚島還大！ </a>  </h2></div> 
  <div align=center>
 <img src="img/a7.jpg" width=580>
