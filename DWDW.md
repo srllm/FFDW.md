@@ -266,7 +266,7 @@
 
 
 <div align=center>
-<a name=b><h2> 程晓容：中共体制催生毒药 退党自救乃上策 </a>  </h2></div> 
+<a name=c><h2> 程晓容：中共体制催生毒药 退党自救乃上策 </a>  </h2></div> 
  <div align=center>
 <img src="img/7f2ad3ff335.jpg" width=480></div>
  <div align=center>7月30日，假疫苗受害儿童家长到北京集体抗议，要求就接种疫苗立法，追究法律和刑事责任，为假疫苗受害者讨公道。（推特图片） </div>  <br/>
