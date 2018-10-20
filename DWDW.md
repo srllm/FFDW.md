@@ -4,6 +4,9 @@
   <h3 align=center>翻墙必看 视频 http://220.141.117.129 </h3>
 </div>
 <br/>
+<div align=center>
+<img src="img/b_ornament_51_0M.png" width=880>
+<br/>
 
   <a href="https://git.io/ysys">
 <img src="img/20180606fu-0.png" width=880></a>
