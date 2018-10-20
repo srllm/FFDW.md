@@ -280,7 +280,7 @@
 <div align=center>
 <a name=◆◆◆4><h2> 【九评13周年】中共给中国带来了什么 </a>  </h2></div> 
 <div align=center>《九评》十三周年 反思共产主义灾难（三）</div>
-<div align=center>作者：程晓容</div>
+<div align=center>作者：程晓容</div></p>
  <div align=center>
 <img src="img/630328892.jpg" width=480></div>
  <div align=center>中共68年的统治，给中国和中国人民带来了巨大的灾难。图为2016年12月15日，令人窒息的雾霾笼罩下的紫禁城。(WANG ZHAO/AFP/Getty Images) </div>  <br/>
