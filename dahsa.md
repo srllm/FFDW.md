@@ -89,6 +89,17 @@
  </tr> 
   
 </table> 
+
+<a href=#list><h6 align="right">回目錄</h6></a>
+<div align=center>
+<img src="img/b_ornament_29_0M.png" width=880></div>
+</p>
+
+<a name=◆◆◆4><h2> 【九评13周年】中共给中国带来了什么 </a>  </h2>
+
+
+
+
 ** 分享网址（请收藏）：“https://git.io/722”请复制后，用谷歌浏览器访问。
 
 
