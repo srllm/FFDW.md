@@ -43,7 +43,7 @@
 </table>
  </p> 
    <div align=center>
-<img src="img/b_ornament_23_0M.png" width=880></div>
+<img src="img/b_ornament_30_0M.png" width=880></div>
 </p>
 
 目錄
