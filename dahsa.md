@@ -1,4 +1,10 @@
 
+<div align=center>
+<img src="img/img868f29639c28.jpg" width=880>
+  <h3 align=center>朋友,请珍惜这份难能可贵的缘份！翻墙了必看的 视频 http://220.141.117.129 </h3>
+</div>
+
+
 目錄
 * 退党大潮新动态
 * 精彩评论
