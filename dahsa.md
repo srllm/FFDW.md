@@ -49,11 +49,11 @@
 <a name=list><h3><a href="https://"> 目錄 </a></h3></div>
 <table>
   <tr>
-    <td width=680><a href=#1>◆ 退党大潮新动态</a> </td>
+    <td width=680><a href=#1>◆ 退党大潮新动态</a> 
     <a href=#1-1>1.美议员发起932号决议案 声援中国退党大潮</a>
     
     
-    
+  </td>
     
    <td width=200 ><a href=#◆◆◆4>大纪元</a> </td>
  </tr>  
@@ -100,12 +100,12 @@
 <img src="img/b_ornament_29_0M.png" width=880></div>
 </p>
 
-<a name=1>div align=center>
+<a name=1><div align=center>
 <img src="img/img868f29639c28.jpg" width=880> </a> </div>
 
 <a name=1-1><h2> 美议员发起932号决议案 声援中国退党大潮 </a>  </h2>
 <div align=center>
-<img src="img/imgf81bc73b5f74.jpg" width=880></div>
+<img src="img/imgf81bc73b5f74.jpg" width=480></div>
 </p>
 2018年6月8日，美国联邦众议员罗拉巴克发起第932号决议案，声援中国退党大潮，要求中共立即停止迫害法轮功。</p>
 第932号决议案指出，中共在中国至少造成六千万人非正常死亡，中共继续暴力镇压和平运动，包括长达19年、仍在持续的对法轮功的迫害。决议案中还说，退党大潮支持中国人民的自由及退出中国共产党及其附属组织，退出中共及其附属组织的民众在2018年达到约三亿人。</p>
