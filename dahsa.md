@@ -49,7 +49,7 @@
 <a name=list><h3><a href="https://"> 目錄 </a></h3></div>
 <table>
   <tr>
-    <td width=680><a href=#1>◆ 退党大潮新动态</a> 
+    <td width=680><a href=#1>◆ 退党大潮新动态</a>  </p> 
     <a href=#1-1>1.美议员发起932号决议案 声援中国退党大潮</a>
     
     
@@ -103,7 +103,7 @@
 <a name=1><div align=center>
 <img src="img/img868f29639c28.jpg" width=880> </a> </div>
 
-<a name=1-1><h2> 美议员发起932号决议案 声援中国退党大潮 </a>  </h2>
+<a name=1-1><h2><div align=center> 美议员发起932号决议案 声援中国退党大潮 </a>  </h2> </div>
 <div align=center>
 <img src="img/imgf81bc73b5f74.jpg" width=480></div>
 </p>
