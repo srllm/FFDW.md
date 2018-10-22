@@ -49,7 +49,7 @@
 <a name=list><h3><a href="https://"> 目錄 </a></h3></div>
 <table>
   <tr>
-    <td width=680><a href=#1>◆ 退党大潮新动态</a>  </p> 
+    <td width=880><a href=#1>◆ 退党大潮新动态</a>  </p> 
    <a href=#1-1>1.美议员发起932号决议案 声援中国退党大潮</a></p> 
    <a href=#1-2>2.美国会研讨会关注三亿人三退为世界带来希望</a></p> 
    <a href=#1-3>3.捷克前总统哈维尔：用道德对抗共产党</a></p> 
@@ -65,37 +65,37 @@
   
   <table>
   <tr>
-    <td width=680><a href=#◆◆◆4>◆ 真人真事 亲身经历</a> </td>
+    <td width=880><a href=#◆◆◆4>◆ 真人真事 亲身经历</a> </td>
     
  </tr> 
   
    <tr>
-    <td width=680><a href=#◆◆◆4>◆ 精彩评论</a> </td>
+    <td width=880><a href=#◆◆◆4>◆ 精彩评论</a> </td>
    
  </tr> 
   
   <tr>
-    <td width=680><a href=#◆◆◆4>◆ 退党话题</a> </td>
+    <td width=880><a href=#◆◆◆4>◆ 退党话题</a> </td>
     
  </tr> 
   
    <tr>
-    <td width=680><a href=#◆◆◆4>◆ 坊间真言</a> </td>
+    <td width=880><a href=#◆◆◆4>◆ 坊间真言</a> </td>
    
  </tr> 
   
    <tr>
-    <td width=680><a href=#◆◆◆4>◆ 天象人间</a> </td>
+    <td width=880><a href=#◆◆◆4>◆ 天象人间</a> </td>
     
  </tr> 
   
   <tr>
-    <td width=680><a href=#◆◆◆4>◆ 退党、团、队方法</a> </td>
+    <td width=880><a href=#◆◆◆4>◆ 退党、团、队方法</a> </td>
    
  </tr> 
   
   <tr>
-    <td width=680><a href=#◆◆◆4>◆ 下载：九评电视片.语音 :</a> </td>
+    <td width=880><a href=#◆◆◆4>◆ 下载：九评电视片.语音 :</a> </td>
     
  </tr> 
   
