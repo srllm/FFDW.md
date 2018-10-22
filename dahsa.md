@@ -59,44 +59,44 @@
    <a href=#1-7>7.前欧议会副主席及议员褒奖全球退党服务中心</a></p> 
    <a href=#1-8>8.新西兰政要：退党运动为中国带来光明</a></p> 
    
-  </td>
-    
-   <td width=200 ><a href=#◆◆◆4>大纪元</a> </td>
- </tr>  
+  </td></tr> 
+    </table>
+   
   
+  <table>
   <tr>
     <td width=680><a href=#◆◆◆4>◆ 真人真事 亲身经历</a> </td>
-    <td width=200 ><a href=#◆◆◆4>大纪元</a> </td>
+    
  </tr> 
   
    <tr>
     <td width=680><a href=#◆◆◆4>◆ 精彩评论</a> </td>
-    <td width=200 ><a href=#◆◆◆4>大纪元</a> </td>
+   
  </tr> 
   
   <tr>
     <td width=680><a href=#◆◆◆4>◆ 退党话题</a> </td>
-    <td width=200 ><a href=#◆◆◆4>大纪元</a> </td>
+    
  </tr> 
   
    <tr>
     <td width=680><a href=#◆◆◆4>◆ 坊间真言</a> </td>
-    <td width=200 ><a href=#◆◆◆4>大纪元</a> </td>
+   
  </tr> 
   
    <tr>
     <td width=680><a href=#◆◆◆4>◆ 天象人间</a> </td>
-    <td width=200 ><a href=#◆◆◆4>大纪元</a> </td>
+    
  </tr> 
   
   <tr>
     <td width=680><a href=#◆◆◆4>◆ 退党、团、队方法</a> </td>
-    <td width=200 ><a href=#◆◆◆4>大纪元</a> </td>
+   
  </tr> 
   
   <tr>
     <td width=680><a href=#◆◆◆4>◆ 下载：九评电视片.语音 :</a> </td>
-    <td width=200 ><a href=#◆◆◆4>大纪元</a> </td>
+    
  </tr> 
   
 </table> 
