@@ -48,13 +48,12 @@
  <table>
    <tr>
     <td width=880><a href=#◆>◆ 《九评》广受世人欢迎 好评如潮 </a> </td>
-
 </tr> 
     </table>
 
  <table>
   <tr>
-    <td width=880><a href=#a>◆ 民心觉醒 三退大潮席卷中国</a> </td>
+    <td width=880><a href=#a>◆ 民心觉醒 三退大潮席卷中国</a> </p>
      <a href=#a-1>湖南律师文东海宣布退党 网友赞赏勇气</a></p> 
   <a href=#a-2> 压在我心头的恶魇</a></p>    
    <a href=#a-3> 一位太子党谈真实的父亲 </a></p>   
