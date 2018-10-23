@@ -221,7 +221,7 @@
 
 <a href=#list><h6 align="right">回目錄</h6></a>
 <div align=center>
-<img src="img/b_ornament_29_0M.png" width=580></div>
+<img src="img/b_ornament_29_0M.png" width=880></div>
 </p>
 <a name=a-7><h2><div align=center>退党正引领一场划时代的社会巨变</a>  </h2> </div>
 中国社会正面临着政治、经济、生态等多方面的问题和危机，究其造成问题和危机的根源，主要是共产党的因素。《九评》指引出一条终结中共暴政并使中国向未来和平过渡转型之路，那就是标志着人们精神觉醒的“三退”运动。</p>
@@ -459,7 +459,7 @@
 <div align=center>
 <img src="img/b_ornament_29_0M.png" width=880></div>
 </p>
-<a name=◆◆◆◆◆><div align=center><img src="img/p5652651a578500506.jpg" width=880></a> </div></p>
+<a name=◆◆◆◆◆><div align=center><img src="img/b6-3-600x470.jpg" width=880></a> </div></p>
 
 <table>
   <tr>
@@ -472,7 +472,7 @@
 
 大纪元　</p>　
 
-2005年1月12日</p>
+2005年1月12日<br/>
 
 </td></tr></table>
 
