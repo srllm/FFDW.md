@@ -114,7 +114,8 @@
 <img src="img/b_ornament_29_0M.png" width=880></div>
 </p>
 
-<a name=◆><h2><div align=center> 《九评》广受世人欢迎 好评如潮</a>  </h2> </div>
+<a name=◆><div align=center>
+<img src="img/barley-field-1684052-1920-600x400.jpg" width=880></a></div></p>
 
 <div align=center>
 <img src="img/3yi_06--ss.jpg" width=580></div></p>
@@ -234,7 +235,7 @@
 
 
 
-<a name=◆◆><h2><div align=center>全球各地声援三亿人退出中共 </a>  </h2> </div>
+<a name=◆◆><div align=center><img src="img/b6-3-600x470.jpg" width=880></a></div></p>
 <div align=center>
 <img src="img/imgf36f02826d1d.jpg" width=580></div></p>
 2004年大纪元发表的《九评共产党》全面系统地剖析共产党邪恶本质，触发中国广大民众“退党大潮”。十三年来，觉醒的中国民众在大纪元退党网站上公开声明退出中共党、团、队组织的人数已超过三亿。三亿人三退，意味着将近四分之一的中国人，脱离了中共及其一切邪恶组织，象征着一个中华民族全面觉醒，一个迅速解体中共的时代的到来。</p>
@@ -406,7 +407,8 @@
 <div align=center>
 <img src="img/b_ornament_29_0M.png" width=880></div>
 </p>
-<a name=◆◆◆><h2><div align=center> ◆ 坊间真言</a>  </h2> </div>
+<a name=◆◆◆><div align=center><img src="img/1704131406572483-600x400-2.jpg" width=880></a></div>
+</p>
 <h2><div align=center>道人之语蕴天机　七十年后终解迷</h2> </div></p>
 我今年八十一岁，这里讲的是我亲身经历的一桩往事。</p>
 
@@ -433,7 +435,8 @@
 <div align=center>
 <img src="img/b_ornament_29_0M.png" width=880></div>
 </p>
-<a name=◆◆◆◆><h2><div align=center> ◆ 天象人间</a>  </h2> </div>
+<a name=◆◆◆◆><div align=center> <img src="img/1704131406572483-600x400.jpg" width=880></a></div>
+</p>
 <h2><div align=center>亿年藏字石的启示</h2> </div>
 2002年6月，在贵州境内发现了2.7亿岁的“藏字石”，五百年前崩裂的巨石断面内惊现六个排列整齐的大字“中国共产党亡”，其中那个“亡”字特别的大。中共媒体都报道了此新闻，但隐去“亡”字，光提“中国共产党”。</p>
 
@@ -456,7 +459,7 @@
 <div align=center>
 <img src="img/b_ornament_29_0M.png" width=880></div>
 </p>
-<a name=◆◆◆◆◆><h2><div align=center> ◆ 大纪元郑重声明</a>  </h2> </div>
+<a name=◆◆◆◆◆><div align=center><img src="img/p5652651a578500506.jpg" width=880></a> </div></p>
 
 <table>
   <tr>
@@ -478,9 +481,9 @@
 <div align=center>
 <img src="img/b_ornament_29_0M.png" width=880></div>
 </p>
-<a name=◆◆◆◆◆1><h2><div align=center> ◆ 退党、团、队方法</a>  </h2> </div>
+<a name=◆◆◆◆◆1><div align=center> <img src="img/20170322094103_64504.jpg" width=880> </a>  </div></p>
 <div align=center>
-<img src="img/td2.jpg" width=880></div>
+<img src="img/td2.jpg" width=480></div>
 </p>
 
 
