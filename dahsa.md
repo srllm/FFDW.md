@@ -88,7 +88,7 @@
   
   <table>
    <tr>
-    <td width=880><a href=#◆◆◆2>◆  中國民眾拋棄中共 三退得福報</a> </td>   
+    <td width=880><a href=#◆◆◆2>◆  中国民众抛弃中共 三退得福报</a> </td>   
  </tr> </table>
  
 <table>
