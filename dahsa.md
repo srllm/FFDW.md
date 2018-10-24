@@ -514,6 +514,10 @@
 </td></tr></table>
 
 
+<div align=center>
+<img src="img/true (1).jpg" width=680></div>
+</p>
+
 <a href=#list><h6 align="right">回目錄</h6></a>
 <div align=center>
 <img src="img/b_ornament_29_0M.png" width=880></div>
