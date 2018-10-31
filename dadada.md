@@ -5,11 +5,35 @@
 </div></p>
 
 <div align=center>
-<img src="img/b_ornament_69_0M.png" width=880></div>
+<img src="img/b_ornament_69_0M.png" width=880></div></p>
+
+<a name=list><a href="http://">目錄</a></p>
+
+<table>
+<tr>
+<td><a href=#1>“三星”采购经理的故事</a></td>
+<td>希望之声</td>
+</tr>
 
 
 
-	
-b_ornament_50_0M.png
+
+</table>
+
+<a href=#list><h4 align="right">回目錄</h4></a>
+<div align=center>
+<img src="img/b_ornament_50_0M.png" width=880></div></p>
+
+
+<a name=1><h2 align="center"><a href="http://">“三星”采购经理的故事</a></h2>
+
+
+
+
+
+
+
+
+
 
 b_ornament_24_0M.png
