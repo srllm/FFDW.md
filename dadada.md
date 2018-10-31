@@ -11,8 +11,8 @@
 
 <table>
 <tr>
-<td><a href=#1>“三星”采购经理的故事</a></td>
-<td>希望之声</td>
+<td width=640><a href=#1>“三星”采购经理的故事</a></td>
+<td width=240><a href=#1>希望之声</a></td>
 </tr>
 
 
