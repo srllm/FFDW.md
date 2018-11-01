@@ -7,7 +7,7 @@
 <div align=center>
 <img src="img/b_ornament_69_0M.png" width=880></div></p>
 
-<a name=list><a href="http://">目錄</a></p>
+<a name=list><h4><a href="http://">目錄</a></h4></p>
 
 <table>
 <tr>
@@ -28,6 +28,15 @@
 <img src="img/b_ornament_50_0M.png" width=880></div></p>
 
 
+<div align=center>
+<img src="img/JCFS20.jpg" width=880></div></p>
+
+
+
+
+<a href=#list><h4 align="right">回目錄</h4></a>
+<div align=center>
+<img src="img/b_ornament_50_0M.png" width=880></div></p>
 <a name=2><h2 align="center"><a href="http://">中国大陆一位医学教授的自述</a></h2>
 <div align=center>
 <img src="img/4242.jpg" width=580></div>
