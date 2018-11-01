@@ -28,8 +28,7 @@
 <img src="img/b_ornament_50_0M.png" width=880></div></p>
 
 
-<div align=center>
-<img src="img/JCFS20.jpg" width=680></div></p>
+
 
 
 
