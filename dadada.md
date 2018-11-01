@@ -24,12 +24,13 @@
 <div align=center>
 <img src="img/b_ornament_50_0M.png" width=880></div></p>
 
+ <div class="list_arrow_green list_order">
 
 <a name=1><h2 align="center"><a href="http://">“三星”采购经理的故事</a></h2>
 <div align=center>
 <img src="img/4224.jpg" width=580></div>
 <div align=center>三星集团越南采购部经理</div></p>
-
+<!--list_order --></div>
 【希望之声2018年10月23日】（本台记者慧光综合报导）她是国际著名的“三星”集团越南采购部经理，也称得上是“女强人”。但她的成功与家庭背景无关，而是源于她顽强的意志和倔强的性格，因为她从小就有远大的志向，渴望像男人一样做事，做成功人士。</p>
 
 她酷爱学习，毕业于越南岘港大学，这是越南中南部地区最大的高等学校。凭着优异的成绩，毕业后她进入一家属于新加坡财团的外国公司工作。之后她又到中国广东省的一家公司工作了两年，担任质量监督检验工程师。</p>
