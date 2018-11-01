@@ -29,7 +29,7 @@
 
 
 <div align=center>
-<img src="img/JCFS20.jpg" width=880></div></p>
+<img src="img/JCFS20.jpg" width=680></div></p>
 
 
 
