@@ -98,7 +98,7 @@
 <img src="img/b_ornament_50_0M.png" width=880></div></p>
 
 
-<a name=10><h2 align="center"><a href="http://">半导体科技人为何走入修炼</a></h2>
+<a name=11><h2 align="center"><a href="http://">半导体科技人为何走入修炼</a></h2>
 <div align=center>
 <img src="img/863.jpg" width=580></div>
  <div align=center> 李东兴全家福——在加拿大西北部的冰河区</div>
