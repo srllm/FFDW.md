@@ -891,7 +891,7 @@ http://cn.epochtimes.com/gb/18/8/30/n10679097.htm
 <div align=center>
 <a name=◆◆◆1><h2> 1949年后中国丢失多少国土？真实数据超想像 </a>  </h2></div> 
  <div align=center>
-<img src="img/a8.jpg" width=580>
+<img src="img/a8-1.jpg" width=580>
 </div>  
 <div align=center>图：中国历代君王守疆卫国，而中共政权却大肆出卖国土，真相令人震惊！图为中国万里长城。（pixabay.com）</div>  
  <br/>
@@ -969,7 +969,7 @@ http://cn.epochtimes.com/gb/18/8/30/n10679097.htm
 <div align=center>
 <a name=◆◆◆><h2> 中共悄悄送給越南的島 比釣魚島還大！ </a>  </h2></div> 
  <div align=center>
-<img src="img/a7.jpg" width=580>
+<img src="img/a7-1.jpg" width=580>
 </div>  
 <div align=center>图：在现在中国地图上，北部湾中心的那个小岛被标注为〝白龙尾岛〞，属于越南版图。不仅夜莺岛，中共送给朝鲜的中国领土也不少，有统计说有数千平方公里。1950年代之前，中朝边境都是以鸭绿江、图们江为界，但整个水面都是中国的，长白山天池也是中国的。如今的爱国愤青们动辄骂人〝卖国贼〞，殊不知〝卖国贼〞这三个字是不能随便骂的。〝卖国〞是需要资格、需要权力的。草民们连自己住的房子的土地产权，都不是自己的，只有七十年的使用权，有什么条件去〝卖国〞？（网络图片）</div>  
  <br/>
