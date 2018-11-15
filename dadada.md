@@ -1,7 +1,7 @@
 
 <div align=center>
 <img src="img/b-800.jpg" width=880>
-  <h3 align=center>——不期而遇的相逢，就是上天的有意安排。翻墙必看 视频 http://220.141.120.73 </h3>
+  <h3 align=center>——不期而遇的相逢，就是上天的有意安排。翻墙必看 视频 http://36.227.102.73 </h3>
 </div></p>
 
 <div align=center>
