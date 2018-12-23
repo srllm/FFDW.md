@@ -44,7 +44,7 @@
 
 <div align=center>
 <img src="img/img868f29639c28-2.jpg" width=880>
-  <h3 align=center><a href="http://61.228.117.125">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://61.228.117.125</a></h3>
+  <h3 align=center><a href="http://220.141.121.162">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://220.141.121.162</a></h3>
 </div>
 <div align=center>
 <img src="img/b_ornament_23_0M.png" width=880></div>
