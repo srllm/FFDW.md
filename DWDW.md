@@ -1,50 +1,7 @@
-<div align="center"><img src="img/3636.png" width=880>
- 
-<h3> 大陆播出时间：</h3>
-
-<table>
-<tr>
-  <td width=300><div align="center">12/24/2018</div></td>
- <td width=280><div align="center">星期一</div></td>
- <td width=300><div align="center">首播	20:00</div></td>
-</tr>
-
-<tr>
-  <td width=300><div align="center">12/25/2018</div></td>
- <td width=280><div align="center">星期二</div></td>
- <td width=300><div align="center">重播	10:00</div></td>
-</tr>
-
-<tr>
-  <td width=300><div align="center">12/25/2018</div></td>
- <td width=280><div align="center">星期二</div></td>
- <td width=300><div align="center">重播	17:00</div></td>
-</tr>
-
-<tr>
-  <td width=300><div align="center">12/31/2018</div></td>
- <td width=280><div align="center">星期一</div></td>
- <td width=300><div align="center">首播	13:00</div></td>
-</tr>
-
-<tr>
-  <td width=300><div align="center">12/31/2018</div></td>
- <td width=280><div align="center">星期一</div></td>
- <td width=300><div align="center">重播	20:30</div></td>
-</tr>
-
-</table>
-
-<h3>中国大陆必须透过翻墙收看 翻墙下载 https://git.io/dici</h3></div>
-</p>
-<div align=center>
-<img src="img/b_illust_91_0M.png" width=880></div>
-</p>
-
 
 <div align=center>
 <img src="img/1023-11.jpg" width=880>
-  <h3 align=center> 翻墙必看 视频 http://61.228.116.228 </h3>
+  <h3 align=center> 翻墙必看 视频 http://220.141.134.181 </h3>
 </div>
 
 <div align=center>
