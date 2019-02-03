@@ -1,3 +1,8 @@
+<div align=center>
+<img src="img/112-1.png" width=880></div>
+<div align=center><h3><a href="https://git.io/sss">【预告】新唐人中国新年期间独家播出"2019全球华人新年晚会" https://git.io/sss </h3></a></div>
+<br/>
+
 
 <div align=center>
 <img src="img/img868f29639c28-2.jpg" width=880>
