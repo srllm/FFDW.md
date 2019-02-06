@@ -6,7 +6,7 @@
 
 <div align=center>
 <img src="img/img868f29639c28-2.jpg" width=880>
-  <h3 align=center><a href="http://220.141.120.7">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://220.141.120.7</a></h3>
+  <h3 align=center><a href="http://220.141.128.139">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://220.141.128.139</a></h3>
 </div>
 <div align=center>
 <img src="img/b_ornament_23_0M.png" width=880></div>
