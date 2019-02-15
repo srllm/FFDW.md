@@ -1,4 +1,7 @@
 
+<div align="center"><IMG SRC="images/112--23.png" width=880>
+	<h3><b>敬请进入 https://git.io/sss 查询观看</h3></b></div>
+<br/>
 
 <div align=center>
 <img src="img/1023-11.jpg" width=880>
