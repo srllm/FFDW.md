@@ -1,12 +1,7 @@
 
-<div align="center"><IMG SRC="img/112--23.png" width=880>
-	<h3><b>敬请进入 https://git.io/sss 查询观看</h3></b></div>
-<br/>
-
-
 <div align=center>
 <img src="img/img868f29639c28-2.jpg" width=880>
-  <h3 align=center><a href="http://111.241.93.196">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://111.241.93.196</a></h3>
+  <h3 align=center><a href="http://220.141.133.2">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://220.141.133.2</a></h3>
 </div>
 <div align=center>
 <img src="img/b_ornament_23_0M.png" width=880></div>
