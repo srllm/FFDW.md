@@ -30,7 +30,7 @@
 <div align=center>
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1></div>
 
-<IMG SRC="true/img-2/b_illust_103_0M.png</div></p>
+<img src="img/b_illust_103_0M.png"></div></p>
 
 <table>
 <tr><h1><b><a href="https://git.io/zb">➤ 热门 三退大潮 觉醒之路</a></b></h1><td>
