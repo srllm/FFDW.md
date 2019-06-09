@@ -60,11 +60,12 @@
 
 </table>
 
-<div align=center><IMG SRC="true/img-2/b_illust_103_0M.png></div></p>
+<div align=center><img src="img/b_illust_103_0M.png"></div></p>
 
 
 <table>
-<tr><h3><b><a href="https://git.io/ykkk">探询真相 兼听则明</a></b></h3><td></tr>
+<tr><h3><b><a href="https://git.io/ykkk">探询真相 兼听则明</a></b></h3><td>
+  </tr>
 </td>
   
 <tr><h3><b><a href="https://git.io/4yu">“活摘”真相</a></b></h3><td>
@@ -88,7 +89,7 @@
 
 </table>
 
-<div align=center><IMG SRC="true/img-2/b_illust_103_0M.png></div></p>
+<div align=center><img src="img/b_illust_103_0M.png"></div></p>
 
 <table>
 <tr><h3><b><a href="https://git.io/02">法轮大法好真相</a></b></h3><td></tr>
@@ -107,7 +108,7 @@
 
 </table>
 
-<div align=center><IMG SRC="true/img-2/b_illust_103_0M.png></div></p>
+<div align=center><img src="img/b_illust_103_0M.png"></div></p>
 
 <table>
 <tr><h3><b><a href="https://git.io/9m">《九评共产党》</a></b></h3><td></tr>
@@ -128,7 +129,7 @@
 </table>
 
 
-<div align=center><IMG SRC="true/img-2/b_illust_103_0M.png></div></p>
+<div align=center><img src="img/b_illust_103_0M.png"></div></p>
 
 <table>
 <tr><h3><b><a href="https://github.com/dfchunsring/drdr/blob/master/README.md">江泽民为何要迫害法轮功？</a></b></h3><td></tr>
@@ -146,7 +147,7 @@
 </table>
 
 
-<div align=center><IMG SRC="true/img-2/b_illust_103_0M.png></div></p>
+<div align=center><img src="img/b_illust_103_0M.png"></div></p>
 
 <table>
 <tr><h3><b><a href="https://git.io/3f">手机上好看的电子书（ePub版）</a></b></h3><td></tr>
@@ -159,7 +160,7 @@
 
 </table>
 
-<div align=center><IMG SRC="true/img-2/b_illust_103_0M.png></div></p>
+<div align=center><img src="img/b_illust_103_0M.png"></div></p>
 
 <table>
 <tr><h3><b><a href="https://git.io/jdd">近代故事</a></b></h3><td></tr>
@@ -178,7 +179,7 @@
 
 </table>
 
-<div align=center><IMG SRC="true/img-2/b_illust_103_0M.png></div></p>
+<div align=center><img src="img/b_illust_103_0M.png"></div></p>
 
 
 
